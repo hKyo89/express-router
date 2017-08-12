@@ -1,0 +1,13 @@
+{
+  "name": "hkyo89-express-router",
+  "version": "1.0.0",
+  "description": "Express router",
+  "main": "index.js",
+  "repository": "https://github.com/hkyo89/express-router",
+  "author": "Argi Karunia",
+  "license": "MIT",
+  "dependencies": {
+    "config": "^1.26.2",
+    "lodash": "^4.17.4"
+  }
+}
